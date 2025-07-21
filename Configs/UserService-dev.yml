@@ -1,3 +1,3 @@
-env: dev
 app:
-  message: This is Dev environment
+  name: UserService
+  env: dev
