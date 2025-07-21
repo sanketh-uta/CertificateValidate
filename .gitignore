@@ -1,0 +1,51 @@
+# ========================
+# Java/Spring Boot
+# ========================
+
+# Maven/Gradle build output
+/target/
+*/target/
+/build/
+*/build/
+
+# IDE folders
+/.idea/
+/*.iml
+*.iws
+*.ipr
+/.project
+/.classpath
+/.settings/
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Test reports
+/test-output/
+/surefire-reports/
+/jacoco.exec
+
+# Local environment config
+.env
+*.local
+
+# Temporary files
+*.tmp
+*.swp
+
+
+# Coverage reports
+/coverage/
+/cobertura/
+
+# Docker
+*.pid
+
+# Backup files
+*.bak
+*.old
+
